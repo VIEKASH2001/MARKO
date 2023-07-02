@@ -1,5 +1,6 @@
-# MARKO
-
+<a>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=2000&pause=500&multiline=true&width=1500&height=80&lines=MARKO" alt="Typing SVG" />
+</a>
 This work was published under the title: "Deep Learning Based Muscle Intent Classification in Continuous Passive Motion Machine for Knee Osteoarthritis Rehabilitation" at the 2021 IEEE Madras Section Conference (MASCON): https://doi.org/10.1109/MASCON51689.2021.9563370
 
 ## Abstract
